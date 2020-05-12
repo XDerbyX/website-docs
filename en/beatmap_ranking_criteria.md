@@ -91,16 +91,16 @@ All maps will possibly goes ranked except there are some that match the criteria
 #### OVERALL
 
 1. **Vibro = NO**
-2. Pattern playable, what it mean to be playable is the pattern can be played by a player and is fit the Official RC. 
-3. Map Pack (Endurance, Dan) = Loved, as said on the title, training pack is a bunch of maps that made for training purpose and not for casual playing
-4. For 7K beatmaps that has SR>5 minimum HP 7 and OD 7.
+2. Playable Pattern, what it means is it has to be playable, the pattern can be played by a player and it fits the Official RC. 
+3. Map Pack (Endurance, Dan, Course) = Loved, as said on the title, training pack is a bunch of maps that made for training purpose and not for casual playing
+4. For 7K beatmaps that have SR>5, the minimum requirement is HP 7 and OD 7.
 
-Notes: good or not the map is subjective, i'm here as a mapper still can't yet find maps with good patterns, so please understand. Playable pattern is also the same, even a map with SR 7 can be considered playable for some player, and not for the others. except VIBRO
+Notes: How good or not the map is, is subjective, i'm here as a mapper still can't yet find maps with good patterns, so please understand. Playable pattern is also the same, even a map with SR 7 can be considered playable for some player, and not for the others. except VIBRO
 
 #### LN MAPS
 
 1. For the rate up/speed up won't be ranked because the pattern is just the same. 
-2. For maps that has SR >9 will be pending or Loved. there's different case for 7K. For 7k, for now SR>15 will be Pending or Loved
-3. Untuk map LN 7K yang memiliki SR>6 minimum HP 6.5 dan OD 0
+2. For maps that have SR >9 will be pending or Loved. there's different case for 7K. For 7k, for now SR>15 will be Pending or Loved
+3. For 7K LN beatmaps that have SR>6, the minimum requirement is HP 6.5 and OD 0. Also if the Map has SR>12 with DT/NC Mods specifically for "Easy" Beatmaps, then it can't be ranked (By "Easy" is that it abuses the SR system with spammable pattern to get high SR)
 
 Notes: FOR this LN rules might change anytime 
