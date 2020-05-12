@@ -74,10 +74,10 @@ All maps will possibly goes ranked except there are some that match the criteria
 
 #### RULES
 
-1. Playable, and it a must, if not playable it will be going to loved
-2. Less 1/4+1/6 and  1/6+1/8 pattern, take that as consideration before submitting a request if you want it to be ranked, but it still can be loved
-3. Longstream is fine, but stable, yea if stable 1/4 atau 1/6 longstream maybe no problem, but 1/4+1/6 still be approved if the pattern 1/6 position is on the end of the stream, for 1/6 in the middle of the stream and continued by 1/4 stream might be going to loved
-4. Endurance map, if the map has longstream without any break time dan more than 2 minutes length and/or stamina map with high bpm might also goes to loved, for stamina map but the bpm is under 250 still can be considerated
+1. Playable is a must, if its not playable, then it will be Pending or Loved
+2. Less 1/4+1/6 and 1/6+1/8 pattern, take that as consideration before submitting a request if you want it to be ranked, but it still can be loved
+3. Longstream is fine, but stable. if its 1/4 or 1/6 stable longstream then maybe no problem. For 1/4+1/6 can still be approved if the  1/6 pattern position is on the end of the stream. For 1/6 in the middle of the stream and continued by 1/4 stream then it might be going to Pending/Loved
+4. Endurance map, if the map has longstream without any break time and the length is more than 2 minutes and/or stamina map with high BPM might also go to Pending/Loved. For Stamina map, if the bpm is under 250 then it can still be considerated
 5. Mapset with Difficulty SpeedRate, Mapset with many Diff Rate prefered going to loved
 6. Doublet spam, definetly loved
 7. Pattern with random slider appear or Pattern inside the slider, this also goint to loved, sometimes the pattern on the slider can't be clicked
@@ -91,16 +91,16 @@ All maps will possibly goes ranked except there are some that match the criteria
 #### OVERALL
 
 1. **Vibro = NO**
-2. Pattern playable, what it mean to be playable is the pattern can be played by a player and is fit the Official RC. 
-3. Map Pack (Endurance, Dan) = Loved, as said on the title, training pack is a bunch of maps that made for training purpose and not for casual playing
-4. For 7K beatmaps that has SR>5 minimum HP 7 and OD 7.
+2. Playable Pattern, what it means is it has to be playable, the pattern can be played by a player and it fits the Official RC. 
+3. Map Pack (Endurance, Dan, Course) = Loved, as said on the title, training pack is a bunch of maps that made for training purpose and not for casual playing
+4. For 7K beatmaps that have SR>5, the minimum requirement is HP 7 and OD 7.
 
-Notes: good or not the map is subjective, i'm here as a mapper still can't yet find maps with good patterns, so please understand. Playable pattern is also the same, even a map with SR 7 can be considered playable for some player, and not for the others. except VIBRO
+Notes: How good or not the map is, its subjective, i'm here as a mapper aswell and i still can't find maps with good patterns (yet), so please understand. Playable pattern is also the same, even a map with SR 7 can be considered playable for some player, and not for the others. except VIBRO
 
 #### LN MAPS
 
-1. For the rate up/speed up won't be ranked because the pattern is just the same. 
-2. For maps that has SR >9 will be pending or Loved. there's different case for 7K. For 7k, for now SR>15 will be Pending or Loved
-3. Untuk map LN 7K yang memiliki SR>6 minimum HP 6.5 dan OD 0
+1. For Beatmaps that has rate up/speed up, it won't be ranked because the pattern is the same with the original.
+2. For maps that have SR >9 will be Pending or Loved. thats a different case for 7K. For 7k, for now SR>15 will be Pending or Loved
+3. For 7K LN beatmaps that have SR>6, the minimum requirement is HP 6.5 and OD 0. Also if the Map has SR>12 with DT/NC Mods specifically for "Easy" Beatmaps, then it can't be ranked (By "Easy" is that it abuses the SR system with spammable pattern to get high SR)
 
 Notes: FOR this LN rules might change anytime 
